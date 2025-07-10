@@ -1,0 +1,21 @@
+# Python cache
+__pycache__/
+*.pyc
+
+# OS/Editor files
+desktop.ini
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# VSCode settings (if using VSCode)
+.vscode/
+
+# GeoTIFF and other large geospatial data (optional, if not needed in repo)
+*.tif
+
+# HTML visual outputs (optional, if re-generated)
+*.html
+
+# JSON exports (if auto-generated)
+export.json
