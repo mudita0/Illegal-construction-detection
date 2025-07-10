@@ -1,0 +1,12 @@
+Parameter,Residential Housing (≤ 250 sq. yd.),Residential Housing (251 – 500 sq. yd.),Residential Housing (> 500 sq. yd.),Group Housing,Apartment Complexes,Mixed-Use Zoning,Office Buildings,Shopping Complexes,Hotels & Lodging,Industrial Buildings,Mixed-Use Commercial
+Floor Area Ratio (FAR),1.5,1.75,2,2,2.5,1.75,1.75 - 2.50,2.00 - 2.75,2.50 - 3.00,1.50 - 2.00,1.75 - 2.50
+Max Ground Coverage,70%,65%,60%,40%,35%,65%,40% - 50%,50% - 60%,50% - 70%,45% - 60%,50% - 65%
+Max Number of Floors,3 floors,3 floors,3 floors,15-18 floors,15-18 floors,3 floors,6-12 floors,3-5 floors,5-15 floors,3-6 floors,3-8 floors
+Total Height Limit,15 meters,15 meters,15 meters,50 meters,50 meters,15 meters,45 meters,30 meters,50 meters,25 meters,40 meters
+Front Setback,3.0 meters,3.0 meters,3.0 meters,Variable,Variable,3.0 meters,6 - 12 meters,5 - 10 meters,6 - 15 meters,5 - 10 meters,6 - 12 meters
+Side Setback,Not required,1.2 meters,1.2 meters,Variable,Variable,1.2 meters,3 - 6 meters,2 - 4 meters,3 - 6 meters,3 - 5 meters,3 - 6 meters
+Rear Setback,1.5 meters,1.5 meters,1.5 meters,Variable,Variable,1.5 meters,4 - 8 meters,3 - 6 meters,4 - 8 meters,4 - 7 meters,4 - 8 meters
+Basement Depth,3.0 meters,3.0 meters,3.0 meters,Allowed,Allowed,Allowed,Up to 3 levels,Up to 2 levels,Up to 3 levels,Up to 1 level,Up to 2 levels
+Parking Requirement,1 slot,2 slots,2+ slots,1.5 car/unit,1.5 car/unit,Dedicated parking for commercial units,2 cars per 100 sq. m,3 cars per 100 sq. m,1 car per room + visitor parking,2 cars per 100 sq. m,2.5 cars per 100 sq. m
+Minimum Open Space / Green Space Requirement,Not mandatory,Not mandatory,Not mandatory,20% of total area,20% of total area,Not mandatory,15% of total area,10% of total area,20% of total area,10% of total area,12% of total area
+Permitted Uses,Residential only,Residential only,Residential only,Residential,Residential,Small-scale commercial (ground floor only),"Offices, IT hubs","Retail, entertainment","Hotels, resorts","Manufacturing, warehousing","Offices, retail, small-scale residential"
